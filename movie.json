@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "name" : "Mark",
+  "genre" : "DETECTIVE",
+  "createDate" : [ 2020, 10, 1 ],
+  "cashBox" : 1
+}, {
+  "id" : 2,
+  "name" : "Демон",
+  "genre" : "ACTION",
+  "createDate" : [ 2019, 12, 6 ],
+  "cashBox" : 2
+}, {
+  "id" : 3,
+  "name" : "Маска",
+  "genre" : "BIOGRAPHICAL",
+  "createDate" : [ 2000, 9, 1 ],
+  "cashBox" : 3
+} ]
